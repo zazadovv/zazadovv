@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zazadov
-- 👀 I’m interested in manual Image processing ! 
+- 👀 I’m interested in manual & scripted Image processing ! 
 - 🌱 I’m currently learning python and MATLAB
 - 💞️ I’m looking to collaborate on scripting environment   
 - 📫 SMS me ! 
