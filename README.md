@@ -18,7 +18,7 @@ Gelashvili et al., 2024
 
 Representative demo file outputs for testing the software.
 
-Sample .stl files for 3D visualization. (Note: Most .stl source files are too large to host on GitHub. We have provided one fragmented ER example as a representative demo.)
+
 
 💻 System Requirements
 
