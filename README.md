@@ -31,6 +31,7 @@ Representative demo file outputs for testing the software.
 
 
 
+![20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_napari_direct (1)](https://github.com/user-attachments/assets/21c973e5-7e01-45ef-b00d-2ab24a0b5909)
 
 <!---
 zazadovv/zazadovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
