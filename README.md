@@ -31,6 +31,35 @@ Representative demo file outputs for testing the software.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+![20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_napari_direct (1)](https://github.com/user-attachments/assets/5d222315-1dc8-4cf0-b4d5-50b955f3ca08)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 💻 System Requirements
 
 Operating System
