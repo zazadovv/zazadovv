@@ -2,6 +2,17 @@
 
 👀 I’m interested in manual & scripted Image processing !
 
+![MAX_20240321_3dpf_MPEG-eGFP_KDRL-RFP_R1_ISO_hypo_20fps](https://github.com/user-attachments/assets/c0b7174b-b8ad-4be3-9d58-4ed77b5aedae)
+
+
+
+
+
+
+
+
+
+
 🌱 always learning
 
 💞️ I’m looking to collaborate on scripting environment
